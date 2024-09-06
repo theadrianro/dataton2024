@@ -1,4 +1,4 @@
-# Dataton 2024
+Modelo de Optimización espacial
 
 Integrantes:
 * Silva Paucar, Stefany
