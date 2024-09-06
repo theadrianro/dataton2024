@@ -1,5 +1,7 @@
 # Modelo de Optimización espacial
 
+## Data
+
 Integrantes:
 * Rojas Rivas, Adrian Andres
 * Silva Paucar, Stefany Dennis
