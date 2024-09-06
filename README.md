@@ -12,4 +12,4 @@ Dado el análisis de las campañas veterinarias organizadas por la Municipalidad
 * [Ver Mapa 2](https://theadrianro.github.io/dataton2024/map2.html) Metodología Voronoi para la determinación estratégica y óptima de ubicaciones para nuevas campañas.
 
 * [Ver PDF](https://theadrianro.github.io/dataton2024/modelo.pdf)
-* 
+
