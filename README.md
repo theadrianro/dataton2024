@@ -1,8 +1,8 @@
 # Modelo de Optimización espacial
 
 Integrantes:
-* Silva Paucar, Stefany Dennis
 * Rojas Rivas, Adrian Andres
+* Silva Paucar, Stefany Dennis
 
 Dado el análisis de las campañas veterinarias organizadas por la Municipalidad Distrital de Chorrillos, se ha identificado una distribución desigual de los puntos de atención, dejando algunas zonas sin acceso cercano a estos servicios. Para resolver este problema de cobertura, se utilizaron herramientas tecnológicas como web scraping para la detección de bases de datos con información geoespacial disponible, para luego usar un lenguaje de programación como Python para la creación del diagrama de Voronoi
 
