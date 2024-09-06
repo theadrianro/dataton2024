@@ -12,4 +12,4 @@ Solución:
 Mapa 1: https://theadrianro.github.io/dataton2024/map1.html
 
 
-[Ver Mapa Interactivo](https://tu-usuario.github.io/tu-repositorio/docs/map.html](https://theadrianro.github.io/dataton2024/map1.html)
+[Ver Mapa 1 Interactivo](https://theadrianro.github.io/dataton2024/map1.html)
