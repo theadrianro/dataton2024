@@ -9,7 +9,6 @@ Integrantes:
 Solución: 
 
 
-Mapa 1: https://theadrianro.github.io/dataton2024/map1.html
 
-
-[Ver Mapa 1 Interactivo](https://theadrianro.github.io/dataton2024/map1.html)
+[Ver Mapa 1](https://theadrianro.github.io/dataton2024/map1.html)
+[Ver Mapa 2](https://theadrianro.github.io/dataton2024/map2.html)
