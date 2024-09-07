@@ -6,6 +6,7 @@ Integrantes:
 
 ## Data 📊
 Registro de campañas veterinarias de la Municipalidad Distrital de Chorrillos [Ver fuente](https://www.datosabiertos.gob.pe/dataset/registro-de-campa%C3%B1as-veterinarias-de-la-municipalidad-distrital-del-chorrillos-mdch)
+
 La propuesta incluye la aplicación de web scraping para la búsqueda de datasets que tenga información geoespacial, lenguaje de programación Python para la creación del diagrama de Voronoi, el desarrollo de coberturas con coordenadas exactas y el despliegue sencillo en html que brinda acceso total a cualquier usuario con internet.
 
 ## Impacto ✅
