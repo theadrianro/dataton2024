@@ -20,7 +20,7 @@ Los marcadores representan las campañas realizadas, organizadas por colores de 
 Es evidente que hay zonas del distrito que aún no han sido alcanzadas por las campañas, lo que subraya la importancia estratégica de este proyecto: ampliar la cobertura para beneficiar a la mayor cantidad posible de ciudadanos.
 ![Mapa 1](https://github.com/user-attachments/assets/8af0c2d8-2b7b-45ee-9817-49e220c97e03)
 
-
+El uso de diagramas de Voronoi permite identificar las áreas geográficas más cercanas a cada campaña, representando las zonas desde las cuales los ciudadanos pueden acceder fácilmente a la más cercana. Sin embargo, el análisis revela que en algunas zonas, las distancias son considerables, lo que aumenta la probabilidad de que los ciudadanos no asistan a las campañas debido a la lejanía.
 ![Mapa 2](https://github.com/user-attachments/assets/639b5bb1-59ad-41c3-8417-448f8a8ddb04)
 
 
