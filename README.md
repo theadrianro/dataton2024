@@ -28,5 +28,12 @@ El uso de diagramas de Voronoi permite identificar las áreas geográficas más 
 * [Ver Mapa 1](https://theadrianro.github.io/dataton2024/map1.html) Identificación de zonas con cobertura insuficiente en campañas debido a la lejanía para algunos ciudadanos.
 * [Ver Mapa 2](https://theadrianro.github.io/dataton2024/map2.html) Metodología Voronoi para la determinación estratégica y óptima de ubicaciones para nuevas campañas.
 
+## Próximos pasos 🧠
+La metodología basada en diagramas de Voronoi tiene múltiples aplicaciones en la optimización de recursos y servicios. Por ejemplo, puede emplearse para:
 
+	•	Optimizar la ubicación de campañas de salud, como aquellas destinadas a prevenir plagas o enfermedades, asegurando un mayor alcance y eficiencia.
+	•	Determinar el lugar óptimo para movilizar los llamados TAMBOS a fin de facilitar el acceso a zonas rurales remotas.
+	•	Identificar las mejores ubicaciones para implementar campañas nutricionales en áreas de difícil acceso, mejorando la cobertura en comunidades vulnerables.
+	•	Ubicar estratégicamente centros educativos para reducir los tiempos de viaje de los estudiantes, permitiendo un acceso más equitativo a la educación.
+Estas son solo algunas de las infinitas posibilidades que esta metodología ofrece, abriendo oportunidades para mejorar la calidad de vida y el acceso a servicios esenciales en diversas áreas.
 
