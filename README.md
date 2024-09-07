@@ -23,12 +23,10 @@ Es evidente que hay zonas del distrito que aún no han sido alcanzadas por las c
 El uso de diagramas de Voronoi permite identificar las áreas geográficas más cercanas a cada campaña, representando las zonas desde las cuales los ciudadanos pueden acceder fácilmente a la más cercana. Sin embargo, el análisis revela que en algunas zonas, las distancias son considerables, lo que aumenta la probabilidad de que los ciudadanos no asistan a las campañas debido a la lejanía.
 ![Mapa 2](https://github.com/user-attachments/assets/639b5bb1-59ad-41c3-8417-448f8a8ddb04)
 
-
-
 ## Despliegue ⚡️
-
 * [Ver PDF](https://theadrianro.github.io/dataton2024/modelo.pdf) Ver documento de trabajo.
-
 * [Ver Mapa 1](https://theadrianro.github.io/dataton2024/map1.html) Identificación de zonas con cobertura insuficiente en campañas debido a la lejanía para algunos ciudadanos.
-
 * [Ver Mapa 2](https://theadrianro.github.io/dataton2024/map2.html) Metodología Voronoi para la determinación estratégica y óptima de ubicaciones para nuevas campañas.
+
+
+
