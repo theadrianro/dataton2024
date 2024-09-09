@@ -19,6 +19,7 @@ La solución propuesta promueve la sostenibilidad en cuidades y comunidades ODS 
 ❗️ ¿Sabías que la metodología Voronoi ayudó a prevenir la expansión de una plaga de cólera en el siglo XIX?
 En 1854, el médico John Snow utilizó un concepto similar al de Voronoi para mapear casos de cólera en Londres, lo que le permitió identificar y aislar una fuente de agua contaminada, deteniendo la propagación de la enfermedad.
 
+<img src="https://github.com/user-attachments/assets/144da0be-d643-4a79-abd1-952499cbe1b8" alt="ods" width="400"/>
 
 
 
