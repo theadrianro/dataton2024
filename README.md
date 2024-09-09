@@ -1,4 +1,4 @@
-# Modelo de Optimización espacial
+# Modelo de optimización espacial
 
 Integrantes:
 * Rojas Rivas, Adrian Andres
