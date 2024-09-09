@@ -13,6 +13,7 @@ La propuesta incluye la aplicación de web scraping para la búsqueda de dataset
 Se ha identificado una distribución desigual de los puntos de atención, dejando algunas zonas sin acceso cercano a estos servicios o campañas. Para resolver este problema de cobertura, se utilizaron herramientas tecnológicas como web scraping para la detección de bases de datos con información geoespacial disponible, para luego usar un lenguaje de programación como Python para la creación del diagrama de Voronoi.
 
 <img src="https://github.com/user-attachments/assets/144da0be-d643-4a79-abd1-952499cbe1b8" alt="ods" width="100"/>
+
 ODS 11: La solución propuesta promueve la sostenibilidad en cuidades y comunidades ODS 11, ya que la aplicación del diagrama de Voronoi permite una eficiente planificación del espacio urbano y optimiza la ubicación de las campañas veterinarias, asegurando que estén distribuidos estratégicamente para maximizar la cobertura y minimizar los desplazamientos de los usuarios. Esto es esencial para una planificación urbana inteligente, especialmente en áreas densamente pobladas o con acceso limitado a servicios veterinarios.
 
 ❗️ ¿Sabías que la metodología Voronoi ayudó a prevenir la expansión de una plaga de cólera en el siglo XIX?
