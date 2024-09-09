@@ -12,8 +12,15 @@ La propuesta incluye la aplicación de web scraping para la búsqueda de dataset
 ## Impacto ✅
 Se ha identificado una distribución desigual de los puntos de atención, dejando algunas zonas sin acceso cercano a estos servicios o campañas. Para resolver este problema de cobertura, se utilizaron herramientas tecnológicas como web scraping para la detección de bases de datos con información geoespacial disponible, para luego usar un lenguaje de programación como Python para la creación del diagrama de Voronoi.
 
+ODS11
+La solución propuesta promueve la sostenibilidad en cuidades y comunidades ODS 11, ya que la aplicación del diagrama de Voronoi permite una eficiente planificación del espacio urbano y optimiza la ubicación de las campañas veterinarias, asegurando que estén distribuidos estratégicamente para maximizar la cobertura y minimizar los desplazamientos de los usuarios. Esto es esencial para una planificación urbana inteligente, especialmente en áreas densamente pobladas o con acceso limitado a servicios veterinarios.
+![ods](https://github.com/user-attachments/assets/144da0be-d643-4a79-abd1-952499cbe1b8)
+
 ❗️ ¿Sabías que la metodología Voronoi ayudó a prevenir la expansión de una plaga de cólera en el siglo XIX?
 En 1854, el médico John Snow utilizó un concepto similar al de Voronoi para mapear casos de cólera en Londres, lo que le permitió identificar y aislar una fuente de agua contaminada, deteniendo la propagación de la enfermedad.
+
+
+
 
 ## Resultados 🚀
 Los marcadores representan las campañas realizadas, organizadas por colores de acuerdo al trimestre y año en que se llevaron a cabo. Las áreas sombreadas en verde indican una estimación de la población beneficiada por cada campaña, considerando que muchas personas suelen caminar con sus mascotas para asistir. El área destacada en gris corresponde al distrito de Chorrillos.
