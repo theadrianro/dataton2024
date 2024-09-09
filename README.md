@@ -14,12 +14,11 @@ Se ha identificado una distribución desigual de los puntos de atención, dejand
 
 ODS11
 La solución propuesta promueve la sostenibilidad en cuidades y comunidades ODS 11, ya que la aplicación del diagrama de Voronoi permite una eficiente planificación del espacio urbano y optimiza la ubicación de las campañas veterinarias, asegurando que estén distribuidos estratégicamente para maximizar la cobertura y minimizar los desplazamientos de los usuarios. Esto es esencial para una planificación urbana inteligente, especialmente en áreas densamente pobladas o con acceso limitado a servicios veterinarios.
-![ods](https://github.com/user-attachments/assets/144da0be-d643-4a79-abd1-952499cbe1b8)
 
 ❗️ ¿Sabías que la metodología Voronoi ayudó a prevenir la expansión de una plaga de cólera en el siglo XIX?
 En 1854, el médico John Snow utilizó un concepto similar al de Voronoi para mapear casos de cólera en Londres, lo que le permitió identificar y aislar una fuente de agua contaminada, deteniendo la propagación de la enfermedad.
 
-<img src="https://github.com/user-attachments/assets/144da0be-d643-4a79-abd1-952499cbe1b8" alt="ods" width="400"/>
+<img src="https://github.com/user-attachments/assets/144da0be-d643-4a79-abd1-952499cbe1b8" alt="ods" width="200"/> 2dqwdqwd
 
 
 
